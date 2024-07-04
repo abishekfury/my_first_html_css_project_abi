@@ -1,0 +1,168 @@
+.header{
+    padding: 10px;
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    /* border: 2px solid black; */
+    overflow: hidden;
+
+}
+.navbar ul li{
+    float: left;
+}
+.navbar ul li a{
+    color:black;
+    font-size: 10px;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+.bg{
+    /* border: 2px solid black; */
+    padding: 220px;
+    background-image: url('./images/bg2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container{
+    display: flex;
+    background-color: black;
+}
+.flex-container > .box1{
+    background-image: url('./images/men9.jpg');
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+}
+.flex-container > .box2{
+    background-image: url('./images/mens6.jpg');
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+}
+.flex-container > .box3{
+    background-image: url('./images/men7.jpg');
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+}
+.flex-container > .box4{
+    background-image: url('./images/men14.jpg');
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+}
+.flex-container1{
+    background-color: rgba(7, 74, 136, 0.521);
+    display: flex;
+}
+.flex-container1 > .box1{
+    background-image: url('./images/w.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container1 > .box2{
+    background-image: url('./images/women2.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container1 > .box3{
+    background-image: url('./images/women3.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container1 > .box4{
+    background-image: url('./images/women5.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container2{
+    background-color: rgb(212, 0, 255);
+    display: flex;
+}
+.flex-container2 > .box1{
+    background-image: url('./images/kido1.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container2 > .box2{
+    background-image: url('./images/kido2.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container2 > .box3{
+    background-image: url('./images/kido3.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container2 > .box4{
+    background-image: url('./images/kido4.jpg');
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+    width: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer {
+    background: white;
+    color:black;
+    text-align: center;
+    padding: 1rem 0;
+}
